@@ -1,0 +1,1835 @@
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="ProgId" content="Word.Document">
+    <meta name="Generator" content="Microsoft Word 15">
+    <meta name="Originator" content="Microsoft Word 15">
+    <!--[if gte mso 9]><xml>
+     <w:WordDocument>
+      <w:TrackMoves>false</w:TrackMoves>
+      <w:TrackFormatting/>
+      <w:PunctuationKerning/>
+      <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+      <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+      <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+      <w:ValidateAgainstSchemas/>
+      <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+      <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+      <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+      <w:DoNotPromoteQF/>
+      <w:LidThemeOther>EN-US</w:LidThemeOther>
+      <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+      <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+      <w:Compatibility>
+       <w:SpaceForUL/>
+       <w:BalanceSingleByteDoubleByteWidth/>
+       <w:DoNotLeaveBackslashAlone/>
+       <w:ULTrailSpace/>
+       <w:DoNotExpandShiftReturn/>
+       <w:AdjustLineHeightInTable/>
+       <w:BreakWrappedTables/>
+       <w:SnapToGridInCell/>
+       <w:WrapTextWithPunct/>
+       <w:UseAsianBreakRules/>
+       <w:DontGrowAutofit/>
+       <w:SplitPgBreakAndParaMark/>
+       <w:EnableOpenTypeKerning/>
+       <w:DontFlipMirrorIndents/>
+       <w:OverrideTableStyleHps/>
+       <w:UseFELayout/>
+      </w:Compatibility>
+      <w:DoNotOptimizeForBrowser/>
+      <m:mathPr>
+       <m:mathFont m:val="Cambria Math"/>
+       <m:brkBin m:val="before"/>
+       <m:brkBinSub m:val="&#45;-"/>
+       <m:smallFrac m:val="off"/>
+       <m:dispDef/>
+       <m:lMargin m:val="0"/>
+       <m:rMargin m:val="0"/>
+       <m:defJc m:val="centerGroup"/>
+       <m:wrapIndent m:val="1440"/>
+       <m:intLim m:val="subSup"/>
+       <m:naryLim m:val="undOvr"/>
+      </m:mathPr></w:WordDocument>
+    </xml><![endif]--><!--[if gte mso 9]><xml>
+        <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+                        DefSemiHidden="false" DefQFormat="false" LatentStyleCount="376">
+            <w:LsdException Locked="false" QFormat="true" Name="Normal"/>
+            <w:LsdException Locked="false" QFormat="true" Name="heading 1"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            QFormat="true" Name="heading 2"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            QFormat="true" Name="heading 3"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            QFormat="true" Name="heading 4"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            QFormat="true" Name="heading 5"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            QFormat="true" Name="heading 6"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            QFormat="true" Name="heading 7"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            QFormat="true" Name="heading 8"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            QFormat="true" Name="heading 9"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            QFormat="true" Name="caption"/>
+            <w:LsdException Locked="false" QFormat="true" Name="Title"/>
+            <w:LsdException Locked="false" Priority="1" SemiHidden="true" QFormat="true"
+                            Name="Default Paragraph Font"/>
+            <w:LsdException Locked="false" QFormat="true" Name="Subtitle"/>
+            <w:LsdException Locked="false" QFormat="true" Name="Strong"/>
+            <w:LsdException Locked="false" QFormat="true" Name="Emphasis"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+                            UnhideWhenUsed="true" Name="HTML Top of Form"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+                            UnhideWhenUsed="true" Name="HTML Bottom of Form"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            QFormat="true" Name="Normal Table"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+                            UnhideWhenUsed="true" Name="No List"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+                            UnhideWhenUsed="true" Name="Outline List 1"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+                            UnhideWhenUsed="true" Name="Outline List 2"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+                            UnhideWhenUsed="true" Name="Outline List 3"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Simple 1"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Simple 2"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Simple 3"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Classic 1"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Classic 2"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Classic 3"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Classic 4"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Colorful 1"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Colorful 2"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Colorful 3"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Columns 1"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Columns 2"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Columns 3"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Columns 4"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Columns 5"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Grid 1"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Grid 2"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Grid 3"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Grid 4"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Grid 5"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Grid 6"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Grid 7"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Grid 8"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table List 1"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table List 2"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table List 3"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table List 4"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table List 5"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table List 6"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table List 7"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table List 8"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table 3D effects 1"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table 3D effects 2"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table 3D effects 3"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Contemporary"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Elegant"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Professional"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Subtle 1"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Subtle 2"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Web 1"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Web 2"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Web 3"/>
+            <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+                            Name="Table Theme"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+                            Name="Placeholder Text"/>
+            <w:LsdException Locked="false" Priority="99" Name="No Spacing"/>
+            <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+            <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+            <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+            <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+            <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+            <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+            <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+            <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+            <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+            <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+            <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+            <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+            <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+            <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+            <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+            <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+            <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+            <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+            <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+            <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true" Name="Revision"/>
+            <w:LsdException Locked="false" Priority="99" Name="List Paragraph"/>
+            <w:LsdException Locked="false" Priority="99" Name="Quote"/>
+            <w:LsdException Locked="false" Priority="99" Name="Intense Quote"/>
+            <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+            <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+            <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+            <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+            <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+            <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+            <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+            <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+            <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+            <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+            <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+            <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+            <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+            <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+            <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+            <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+            <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+            <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+            <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+            <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+            <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+            <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+            <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+            <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+            <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+            <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+            <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+            <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+            <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+            <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+            <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+            <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+            <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+            <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+            <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+            <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+            <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+            <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+            <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+            <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+            <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+            <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+            <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+            <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+            <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+            <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+            <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+            <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+            <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+            <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+            <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+            <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+            <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+            <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+            <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+            <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+            <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+            <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+            <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+            <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+            <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+            <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+            <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+            <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+            <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+            <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+            <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+            <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+            <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+            <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+            <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+            <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+            <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+            <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+            <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+            <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+            <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+            <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+            <w:LsdException Locked="false" Priority="19" QFormat="true"
+                            Name="Subtle Emphasis"/>
+            <w:LsdException Locked="false" Priority="21" QFormat="true"
+                            Name="Intense Emphasis"/>
+            <w:LsdException Locked="false" Priority="31" QFormat="true"
+                            Name="Subtle Reference"/>
+            <w:LsdException Locked="false" Priority="32" QFormat="true"
+                            Name="Intense Reference"/>
+            <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+            <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+                            UnhideWhenUsed="true" Name="Bibliography"/>
+            <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+                            UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+            <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+            <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+            <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+            <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+            <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+            <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+            <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+            <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+            <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+            <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+            <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+            <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+            <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+            <w:LsdException Locked="false" Priority="46"
+                            Name="Grid Table 1 Light Accent 1"/>
+            <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+            <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+            <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+            <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+            <w:LsdException Locked="false" Priority="51"
+                            Name="Grid Table 6 Colorful Accent 1"/>
+            <w:LsdException Locked="false" Priority="52"
+                            Name="Grid Table 7 Colorful Accent 1"/>
+            <w:LsdException Locked="false" Priority="46"
+                            Name="Grid Table 1 Light Accent 2"/>
+            <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+            <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+            <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+            <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+            <w:LsdException Locked="false" Priority="51"
+                            Name="Grid Table 6 Colorful Accent 2"/>
+            <w:LsdException Locked="false" Priority="52"
+                            Name="Grid Table 7 Colorful Accent 2"/>
+            <w:LsdException Locked="false" Priority="46"
+                            Name="Grid Table 1 Light Accent 3"/>
+            <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+            <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+            <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+            <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+            <w:LsdException Locked="false" Priority="51"
+                            Name="Grid Table 6 Colorful Accent 3"/>
+            <w:LsdException Locked="false" Priority="52"
+                            Name="Grid Table 7 Colorful Accent 3"/>
+            <w:LsdException Locked="false" Priority="46"
+                            Name="Grid Table 1 Light Accent 4"/>
+            <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+            <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+            <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+            <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+            <w:LsdException Locked="false" Priority="51"
+                            Name="Grid Table 6 Colorful Accent 4"/>
+            <w:LsdException Locked="false" Priority="52"
+                            Name="Grid Table 7 Colorful Accent 4"/>
+            <w:LsdException Locked="false" Priority="46"
+                            Name="Grid Table 1 Light Accent 5"/>
+            <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+            <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+            <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+            <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+            <w:LsdException Locked="false" Priority="51"
+                            Name="Grid Table 6 Colorful Accent 5"/>
+            <w:LsdException Locked="false" Priority="52"
+                            Name="Grid Table 7 Colorful Accent 5"/>
+            <w:LsdException Locked="false" Priority="46"
+                            Name="Grid Table 1 Light Accent 6"/>
+            <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+            <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+            <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+            <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+            <w:LsdException Locked="false" Priority="51"
+                            Name="Grid Table 6 Colorful Accent 6"/>
+            <w:LsdException Locked="false" Priority="52"
+                            Name="Grid Table 7 Colorful Accent 6"/>
+            <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+            <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+            <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+            <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+            <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+            <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+            <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+            <w:LsdException Locked="false" Priority="46"
+                            Name="List Table 1 Light Accent 1"/>
+            <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+            <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+            <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+            <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+            <w:LsdException Locked="false" Priority="51"
+                            Name="List Table 6 Colorful Accent 1"/>
+            <w:LsdException Locked="false" Priority="52"
+                            Name="List Table 7 Colorful Accent 1"/>
+            <w:LsdException Locked="false" Priority="46"
+                            Name="List Table 1 Light Accent 2"/>
+            <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+            <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+            <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+            <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+            <w:LsdException Locked="false" Priority="51"
+                            Name="List Table 6 Colorful Accent 2"/>
+            <w:LsdException Locked="false" Priority="52"
+                            Name="List Table 7 Colorful Accent 2"/>
+            <w:LsdException Locked="false" Priority="46"
+                            Name="List Table 1 Light Accent 3"/>
+            <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+            <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+            <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+            <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+            <w:LsdException Locked="false" Priority="51"
+                            Name="List Table 6 Colorful Accent 3"/>
+            <w:LsdException Locked="false" Priority="52"
+                            Name="List Table 7 Colorful Accent 3"/>
+            <w:LsdException Locked="false" Priority="46"
+                            Name="List Table 1 Light Accent 4"/>
+            <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+            <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+            <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+            <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+            <w:LsdException Locked="false" Priority="51"
+                            Name="List Table 6 Colorful Accent 4"/>
+            <w:LsdException Locked="false" Priority="52"
+                            Name="List Table 7 Colorful Accent 4"/>
+            <w:LsdException Locked="false" Priority="46"
+                            Name="List Table 1 Light Accent 5"/>
+            <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+            <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+            <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+            <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+            <w:LsdException Locked="false" Priority="51"
+                            Name="List Table 6 Colorful Accent 5"/>
+            <w:LsdException Locked="false" Priority="52"
+                            Name="List Table 7 Colorful Accent 5"/>
+            <w:LsdException Locked="false" Priority="46"
+                            Name="List Table 1 Light Accent 6"/>
+            <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+            <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+            <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+            <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+            <w:LsdException Locked="false" Priority="51"
+                            Name="List Table 6 Colorful Accent 6"/>
+            <w:LsdException Locked="false" Priority="52"
+                            Name="List Table 7 Colorful Accent 6"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+                            UnhideWhenUsed="true" Name="Mention"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+                            UnhideWhenUsed="true" Name="Smart Hyperlink"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+                            UnhideWhenUsed="true" Name="Hashtag"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+                            UnhideWhenUsed="true" Name="Unresolved Mention"/>
+            <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+                            UnhideWhenUsed="true" Name="Smart Link"/>
+        </w:LatentStyles>
+    </xml><![endif]-->
+    <style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:515 680460288 22 0 262145 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073732485 9 0 511 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:515 680460288 22 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-unhide:no;
+	mso-style-link:"页眉 字符";
+	margin:0cm;
+	text-align:center;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-unhide:no;
+	mso-style-link:"页脚 字符";
+	margin:0cm;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+a:link, span.MsoHyperlink
+	{mso-style-unhide:no;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-unhide:no;
+	color:#954F72;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+span.a
+	{mso-style-name:"页眉 字符";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:页眉;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	mso-font-kerning:1.0pt;}
+span.a0
+	{mso-style-name:"页脚 字符";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:页脚;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	mso-font-kerning:1.0pt;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:0pt;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;
+	mso-footnote-separator:url("（英文版）wireless__link用户隐私政策_final.files/header.htm") fs;
+	mso-footnote-continuation-separator:url("（英文版）wireless__link用户隐私政策_final.files/header.htm") fcs;
+	mso-endnote-separator:url("（英文版）wireless__link用户隐私政策_final.files/header.htm") es;
+	mso-endnote-continuation-separator:url("（英文版）wireless__link用户隐私政策_final.files/header.htm") ecs;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:-1227544530;
+	mso-list-type:simple;
+	mso-list-template-ids:-1227544530;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	tab-stops:15.6pt;}
+@list l1
+	{mso-list-id:-926013477;
+	mso-list-type:simple;
+	mso-list-template-ids:-926013477;}
+@list l1:level1
+	{mso-level-suffix:none;
+	mso-level-text:（%1）;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l2
+	{mso-list-id:-638614539;
+	mso-list-type:simple;
+	mso-list-template-ids:-638614539;}
+@list l2:level1
+	{mso-level-start-at:3;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	tab-stops:15.6pt;}
+@list l3
+	{mso-list-id:-433313135;
+	mso-list-type:simple;
+	mso-list-template-ids:-433313135;}
+@list l3:level1
+	{mso-level-text:"\(%1\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	tab-stops:15.6pt;}
+@list l4
+	{mso-list-id:-304744981;
+	mso-list-type:simple;
+	mso-list-template-ids:-304744981;}
+@list l4:level1
+	{mso-level-suffix:space;
+	mso-level-text:"\(%1\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l5
+	{mso-list-id:233997802;
+	mso-list-type:simple;
+	mso-list-template-ids:233997802;}
+@list l5:level1
+	{mso-level-start-at:3;
+	mso-level-suffix:none;
+	mso-level-text:（%1）;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+    <!--[if gte mso 10]>
+    <style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+</style>
+    <![endif]--><!--[if gte mso 9]><xml>
+        <o:shapedefaults v:ext="edit" spidmax="2050"/>
+    </xml><![endif]--><!--[if gte mso 9]><xml>
+        <o:shapelayout v:ext="edit">
+            <o:idmap v:ext="edit" data="2"/>
+        </o:shapelayout></xml><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body lang="ZH-CN" link="blue" vlink="#954F72" style="tab-interval:21.0pt;
+word-wrap:break-word;text-justify-trim:punctuation">
+
+<div class="WordSection1" style="layout-grid:15.6pt">
+
+    <p class="MsoNormal"><span style="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin">《</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">4Barcode Wi-Fi Config Utility User Privacy Policy</span><span style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin">》</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Update:<span style="mso-spacerun:yes">&nbsp;
+</span>6 April 2023<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Effective date: 6 April 2023<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Shenzhen Weida Technology Co., Ltd. <a name="_Hlk132468813">(hereinafter referred to
+as "We" or "the Company") </a>respects and protects user privacy.
+When you use the services provided by the 4Barcode Wi-Fi Config Utility APP, we will not only
+provide you with the services in accordance with the provisions of the
+“4Barcode Wi-Fi Config Utility User Service Agreement”. But also abide by the legal, legitimate
+and necessary principles in accordance with the “4Barcode Wi-Fi Config Utility User Privacy
+Policy” (hereinafter referred to as the "Privacy Policy"). Openly
+express collection and use of your personal information.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Please
+carefully read all terms of this Privacy Policy so that you can understand the
+purpose, scope and manner of 4Barcode Wi-Fi Config Utility's collection and use of your
+personal information. If you are a child, please review this Privacy Policy
+with your legal guardian. You may use 4Barcode Wi-Fi Config Utility and provide your personal
+information to 4Barcode Wi-Fi Config Utility only after your legal guardian has reviewed and
+approved your privacy policy. If you or your guardian do not agree to anything
+in this Privacy Policy, you should immediately stop using 4Barcode Wi-Fi Config Utility
+products or services. When you use any of the services provided by 4Barcode Wi-Fi Config Utility, you consent to us collecting, using, storing and protecting your
+information in accordance with this Privacy Policy.<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">We
+understand the importance of personal information to you, and will do our best
+to protect your personal information safe and reliable. We are committed to
+maintaining your trust in us by adhering to the following principles to protect
+your personal information: the principle of consistency of rights and
+responsibilities, the principle of clear purpose, the principle of consent by
+choice, the principle of least necessary, the principle of ensuring security,
+the principle of subject participation, the principle of openness and
+transparency. At the same time, we promise that we will take appropriate
+security measures to protect your personal information according to the mature
+security standards of the industry.<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">This privacy policy will help you understand
+the following:<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l0 level1 lfo1;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Scope
+of application<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l0 level1 lfo1;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">How
+do we collect and use your personal information<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l0 level1 lfo1;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">How
+do we use “cookies” and similar technologies<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l0 level1 lfo1;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">How
+do we share, transfer, and publicly disclose your personal information<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l0 level1 lfo1;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">How
+do you manage your information and account logout<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l0 level1 lfo1;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">How
+do we store your personal information<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l0 level1 lfo1;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">How
+do we protect your personal information<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l0 level1 lfo1;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Protection
+of minors<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l0 level1 lfo1;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Amendments
+to this policy<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l0 level1 lfo1;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Dispute
+jurisdiction<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l0 level1 lfo1;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span>Contact us<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">1.Scope of application<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l4 level1 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">(1) </span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">This
+Privacy Policy applies to all services provided by 4Barcode Wi-Fi Config Utility except for
+certain specific products and services. These specific products and services
+will be subject to specific privacy policies.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l4 level1 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">(2) </span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">It should
+be noted in particular that this Privacy Policy does not apply to the services
+provided to you by any third party other than the information you have
+confirmed to share with the third party as stipulated in Article 4 of this
+Privacy Policy. Please note: If you provide personal information to a third
+party when you visit its website or use its products and services, your
+information shall be subject to the privacy policy of such third party, and we
+shall not assume any legal liability. Please carefully read the privacy policy
+of such third party and confirm whether you accept it or not.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">2.How do we collect and use your personal
+information<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Personal information refers to all kinds of information
+recorded electronically or by other means that can identify the identity of a
+particular natural person or reflect the activities of a particular natural
+person alone or in combination with other information.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Sensitive personal information refers to
+personal information that, once leaked, illegally provided or abused, may
+endanger personal and property safety and easily lead to personal reputation,
+physical and mental health damage or discriminatory treatment. Personal
+information of children under the age of 14 is personally sensitive.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">The
+products and services we provide rely on some of your information in order to
+function. Therefore, when you use 4Barcode Wi-Fi Config Utility, you need to provide or allow
+us to collect the necessary information so that we can use this information to
+provide you with basic services and better and better services, depending on
+the business function. We divide your personal information collected and used
+into two types: first, the information necessary to realize the basic business
+functions of products and services and the information that may need to be
+collected. The information necessary to realize the basic business functions of
+products and services is the necessary personal information. If you refuse to
+provide it, we will not be able to provide the basic business functions and
+corresponding services to you. The second is the information that may be
+required to be collected for the extension of business functions. You can
+choose whether to provide or authorize us to collect the information
+independently. We will process the personal information based on your
+authorization or the purpose necessary to realize the extension of business
+functions you choose. If you refuse to provide, we will not be able to provide
+you with extended business functions, but it will not affect your use of our
+basic business functions.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">(1)We will
+collect and use your personal information for the purposes stated in the
+following scenarios:<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Each time
+you open the 4Barcode Wi-Fi Config Utility APP, after obtaining your authorization, we will
+receive and record the information related to the device you use, including the
+basic information of the device. The following is the necessary information
+collected by us: Device information, device model, software system version,
+device time zone, device language, network information, screen size, country
+code (for IOS only), and phone style (for Android only); Device ID information:
+Device connection information: WIFI list, WIFI connection information, IP
+address, Bluetooth information. After a printer is successfully connected to
+the distribution network, the system obtains the basic information and IP
+address of the printer so that it can send the command to test the printer.<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Based on
+the implementation of the service function, each service function may collect
+your system permissions as follows:<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Add
+device: When you use the device search, connect and print function, we will
+apply for your WIFI status, network status and Bluetooth permission to search
+and connect to the printer. Due to the operating mechanism of the mobile phone
+operating system, the system WIFI and Bluetooth functions will force you to
+obtain the location permission. Therefore, after applying for the WIFI or
+Bluetooth permission, we will apply for your location information, including
+the approximate location and the exact location, so as to finally connect the
+printer through WIFI or Bluetooth.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">(2) Exceptions to prior consent:<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Related to
+the personal information controller's performance of the obligations stipulated
+by laws and regulations;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Those
+directly related to national security and national defense security;<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Directly
+related to public safety, public health or major public interests<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Directly
+related to criminal investigation, prosecution, trial and execution of judgment<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">In order
+to protect the life, property and other major legal rights and interests of the
+subject of personal information or other individuals, but it is difficult to
+obtain the authorization and consent of the person;<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">The
+personal information involved is disclosed to the public by the subject of
+personal information;<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Necessary
+for signing and performing contracts as required by the subject of personal
+information;<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Collecting
+personal information from legally publicly disclosed information, such as legal
+news reports, government information disclosure and other channels;<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Necessary
+to maintain the safe and stable operation of the products or services provided,
+such as finding and handling faults of the products or services;<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">The person
+who controls personal information is a news organization, and it is necessary
+to carry out legitimate news reports.<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l4 level1 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">(3) </span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Anonymous
+processing<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">For the information we collect from you, we
+will be timely anonymized through technical means. On the premise of not
+disclosing your personal information, we have the right to analyze, mine and
+utilize the anonymized user data, and the right to make statistical analysis of
+the usage of 4Barcode Wi-Fi Config Utility products and use it for possible third-party
+information sharing.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">How
+do we use cookies and similar technologies<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">The 4Barcode Wi-Fi Config Utility APP does not use cookies or
+similar technologies<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">How
+do we share, transfer, and publicly disclose your personal information<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l3 level1 lfo4;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">We
+will treat your information with a high duty of care, and unless we have
+obtained your express consent, we will not share your personal information with
+any company, organization or individual other than our Company, except where
+the specific individual cannot be identified and cannot be recovered after
+processing. Currently, we seek your consent to share personal information.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Based on
+technical requirements, 4Barcode Wi-Fi Config Utility apps need to integrate with third-party
+software development kits (SDKS). The information to be collected or shared
+with the integrated third-party SDK is as follows:<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Wireless
+Link APP integration LeXin information technology (Shanghai), LTD., the SDK,
+specific see<span style="mso-spacerun:yes">&nbsp;&nbsp; </span></span><span lang="EN-US"><a href="https://www.espressif.com.cn/zh-hans/content/privacy"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">https://www.espressif.com.cn/zh-hans/content/privacy</span></a></span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">We will
+only share your personal information for legal, legitimate, necessary, specific
+and explicit purposes. We will sign strict confidentiality agreements with
+companies, organizations and individuals with whom we share personal
+information, requiring them to process the information in accordance with our
+instructions, this policy and any other relevant confidentiality and security
+measures. The recipients of the information have limited access to your information
+and are subject to contractual obligations. Including but not limited to the
+use of legal and compliant ways to obtain your information, take reasonable
+security measures to protect your information, in accordance with the legal
+provisions and our agreement to bear the corresponding legal responsibilities.
+For some open source, free partners appear if the disclosure of your
+information and other violations of your personal rights and interests, we
+assume the corresponding responsibility.<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l3 level1 lfo4;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">We
+will not illegally sell or provide your information to others; We will not
+provide such information about you to any third party, nor will we use it for
+any other purpose or use, except as follows:<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Disclose to third parties with your prior
+consent;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">To disclose to a third party or an
+administrative or judicial organ in accordance with the relevant provisions of
+the law or at the request of an administrative or judicial organ;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">We may use your information for identity
+verification, customer service, security prevention, fraud detection, archiving
+and backup purposes to prevent, detect, investigate fraud, security hazards,
+illegal or violations of our agreements, policies or rules when we provide our
+services, To protect the legitimate rights and interests of you, other users,
+our affiliates, partners and other trusted third-party suppliers, service
+providers, agents and the public, to ensure the security of the products and
+services we provide to you.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">We cooperate with third parties to provide you
+with services related to the 4Barcode Wi-Fi Config Utility Platform or other network services,
+and such third parties agree to assume the same responsibilities as we do for
+protecting user privacy;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Other disclosures required by laws,
+regulations or policies.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l3 level1 lfo4;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">We
+will only publicly disclose your personal information under the following
+circumstances:<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">With your express consent<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Disclosure based on law: We may publicly
+disclose your personal information when required by law, legal process, lawsuit
+or government authority<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l3 level1 lfo4;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">(4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Exceptions
+to prior authorized consent for sharing, transferring or publicly disclosing
+personal information:<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Related to the personal information
+controller's performance of the obligations stipulated by laws and regulations;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Those directly related to national security
+and national defense security;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Directly related to public safety, public
+health or major public interests<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Directly related to criminal investigation,
+prosecution, trial and execution of judgment<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">In order to protect the life, property and
+other major legal rights and interests of the subject of personal information
+or other individuals, but it is difficult to obtain the authorization and
+consent of the person<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Personal information disclosed to the public
+by the subject of personal information<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Collecting personal information from legally
+publicly disclosed information, such as legal news reports, government
+information disclosure and other channels<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">(5) According to the law, sharing,
+transferring or disclosing the deidentified personal information and ensuring
+that the data receiver cannot recover and re-identify the information subject
+shall not be an act of sharing, transferring or publicly disclosing personal
+information to the outside world, and the preservation and processing of such
+data shall not require your consent<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l2 level1 lfo3;
+tab-stops:15.6pt"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">How
+do you manage your Information and account logout (Your rights)<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">In accordance with the relevant laws,
+regulations and standards of China, as well as the common practices of other
+countries and regions, we guarantee that you can exercise the following rights
+with your personal information:<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo5"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:宋体;mso-bidi-theme-font:minor-fareast"><span style="mso-list:Ignore">（1）</span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Right of
+inquiry<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">You have the right to inquire your personal
+information, except for the circumstances stipulated by laws and regulations<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo5"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:宋体;mso-bidi-theme-font:minor-fareast"><span style="mso-list:Ignore">（2）</span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Right of
+correction<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">When you find that we have made mistakes in
+handling your personal information, you can make corrections to us<o:p></o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo5"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:宋体;mso-bidi-theme-font:minor-fareast"><span style="mso-list:Ignore">（3）</span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Right of
+deletion<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Under the following circumstances, you may
+request us to delete your personal information:<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">If our handling of personal information
+violates laws and regulations<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">If we collect or use your personal information
+without your consent<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">If our handling of personal information
+violates our agreement with you<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">If you no longer use our products or services,
+or you cancel your account;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">If we no longer provide you with products or
+services.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">When you decide to delete an item or several
+items of information, you can contact the customer service to delete the
+information, send an email to yanfa@4Barcode.net, or dial 400-613-9828.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span style="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin">（</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">4</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">）</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">The
+personal information subject cancels the account<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">You can cancel your account at any time. You
+can contact the customer service to delete it, send an email to
+yanfa@4Barcode.net, or dial the customer service phone 400-613-9828. After you
+cancel your account, we will stop providing you with products or services and
+delete your personal information upon your request, unless otherwise stipulated
+by laws and regulations.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span style="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin">（</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">5</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">）</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">.
+The subject of personal information obtains a copy of personal information<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">You have the right to obtain a copy of your
+personal information. You can perform this operation through the search path.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span style="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin">（</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">6</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">）</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">
+Respond to your request<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">For security purposes, you may need to provide
+a written request or otherwise prove your identity. We may ask you to verify
+your identity before processing your request.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span>We
+will give the reply within 15 working days or within the time limit stipulated
+by laws and regulations.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">For your reasonable request, we will not
+charge you in principle, but for repeated requests that exceed the reasonable
+limit, we will charge you a certain cost according to the situation. We may
+reject requests that are unnecessarily repetitive, require too much technology
+(e.g., development of new systems or fundamental changes to existing
+practices), pose a risk to the legitimate interests of others, or are highly
+impractical (e.g., involving information stored on backup tapes).<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span>Under the following circumstances,
+according to the requirements of laws and regulations, we will not be able to
+respond to your above request:<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span>is
+related to the performance of obligations stipulated by laws and regulations by
+the personal information controller;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Those directly related to national security
+and national defense security;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Those directly related to public safety,
+public health and major public interests;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span>Those directly related to criminal
+investigation, prosecution, trial and execution of judgments;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span>The personal information controller has
+sufficient evidence that the subject of personal information has subjective
+malice or abuse of rights;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span>For the purpose of safeguarding the life,
+property and other major legal rights and interests of the subject of personal
+information or other individuals, but it is difficult to obtain the
+authorization and consent of the individual;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span>Responding to the request of the personal
+information subject will cause serious damage to the legitimate rights and
+interests of the personal information subject or other individuals and
+organizations;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span>Those involving trade secrets.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">6.How do we store your personal information<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span style="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin">（</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">1</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">）</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Personal
+information collected and generated by our operations within the territory of
+the People's Republic of China shall, in principle, be stored within the
+territory of the People's Republic of China, and shall be stored within the
+storage period stipulated by the laws and regulations of the People's Republic
+of China, departmental rules, etc.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span style="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin">（</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">2</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">）</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">
+Storage Period is the duration of your use of 4Barcode Wi-Fi Config Utility or before sending
+4Barcode Wi-Fi Config Utility to delete your personal information, when you request to delete
+the stored information or decide to stop using 4Barcode Wi-Fi Config Utility, we will delete
+your personal information in a timely manner. You will retain your personal
+information only for as long as necessary to achieve the purposes set forth in
+the Privacy Policy, unless retention is required by law. For example, the
+E-commerce Law of the People's Republic of China requires that commodity and
+service information and transaction information be kept for no less than three
+years from the date of transaction completion. We will anonymize the user
+behavior logs involved in the service. The criteria for judging the
+aforementioned period include:<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span>Complete the transaction purposes related
+to you, maintain the corresponding transaction and business records, and
+respond to your possible inquiries or complaints;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span>Ensure the safety and quality of services
+provided by the Platform;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span>Whether you agree to a longer retention
+period;<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Whether there is any other special agreement
+on the retention period.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo5"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:宋体;mso-bidi-theme-font:minor-fareast"><span style="mso-list:Ignore">（4）</span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">If your
+personal information exceeds the retention period, the Company will delete your
+personal information or anonymize it according to the requirements of
+applicable laws (if you are a minor, after the retention period of your
+personal information, we will process your personal information according to
+the requirements of relevant laws and regulations). If it cannot be deleted
+according to relevant requirements due to special circumstances, we will
+explain this part to you.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">7. How do we protect your Personal Information<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span style="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin">（</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">1</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">）</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">We
+attach great importance to the security of your personal information. We
+endeavor to take all reasonable physical, electronic and administrative
+security measures to protect your personal information and use our best
+reasonable efforts to prevent your personal information from being disclosed,
+damaged or lost, including but not limited to SSL, encrypted information
+storage, and data center access control. We also strictly manage employees or
+outsourced personnel who may have access to your personal information,
+including but not limited to information access control, signing
+confidentiality agreements with personnel who have access to personal
+information, monitoring the operation of such personnel and other measures.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span style="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin">（</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">2</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">）</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Notwithstanding
+the provisions of Paragraph 1 above, please understand and understand that your
+information may be leaked, damaged or lost despite our best efforts to take
+necessary protective measures due to a variety of malicious means which are unpredictable
+or cannot be defended against by existing technology. If you find that your
+account number or password has been or will be leaked for any reason, you
+should contact us immediately so that we can take timely measures to prevent or
+reduce your losses.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span style="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin">（</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">3</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">）</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">.
+In case of an unfortunate personal information security incident, we will
+launch an emergency plan to prevent the expansion of the security incident, and
+in accordance with the requirements of laws and regulations, we will timely
+inform you of the basic situation and possible impact of the security incident,
+the disposal measures we have taken or will take, the suggestions you can
+independently prevent and reduce the risk, and the remedial measures for you,
+etc. We will timely inform you of the relevant information by email, letter,
+telephone or push notification. If it is difficult to inform individual
+information subjects one by one, we will make announcements in a reasonable and
+effective manner. At the same time, we will also take the initiative to report
+the handling of personal information security incidents in accordance with the
+requirements of regulatory authorities.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l1 level1 lfo5"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:宋体;mso-bidi-theme-font:minor-fareast"><span style="mso-list:Ignore">（5）</span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">. In case
+of business merger or division, your information will continue to be protected
+by the existing business entity and we will notify you by announcement, short
+message or other written means; If our products and services stop operation, we
+will promptly stop collecting your information and notify you by announcement,
+SMS, etc. At that time, we will delete or conceal your information.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">8.Protection of minors<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span style="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin">（</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">1</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">）</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">We
+attach great importance to the protection of minors' personal information. If
+you are a minor under the age of 18, please read this Privacy Policy carefully
+under the guidance of your guardian, and use our services and submit your
+personal information with the consent of your guardian. If your guardian does
+not agree with this Privacy Policy, you should immediately stop using 4Barcode Wi-Fi Config Utility's services and refuse to provide personal information.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span style="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin">（</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">2</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">）</span><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">If
+you are a minor under 14 weeks of age, please inform your guardian to jointly
+read and accept our 4Barcode Wi-Fi Config Utility User Privacy Policy and seek your guardian's
+consent and guidance before you use 4Barcode Wi-Fi Config Utility services and submit personal
+information.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;mso-list:l5 level1 lfo6"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:宋体;mso-bidi-theme-font:minor-fareast"><span style="mso-list:Ignore">（3）</span></span><!--[endif]--><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">For children's
+personal information collected with the consent of the guardian, we will only
+use or disclose such information to the extent permitted by laws and
+regulations, and the guardian's explicit consent or protection of the child
+users. For personal information provided by children users without the consent
+of their guardians, we will delete relevant information as soon as possible
+after receiving the notification from their guardians.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">9.. Revision of this Policy<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">We may revise this Privacy policy from time to
+time. The changed Privacy Policy will be notified to you via the 4Barcode Wi-Fi Config Utility
+Platform or by other appropriate means before the changes take effect. In such
+cases, by continuing to use our services, you agree to be bound by the revised
+Privacy Policy.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">10. Dispute jurisdiction<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">The signing, effectiveness, performance and
+dispute resolution of this privacy policy shall be governed by the laws of the
+People's Republic of China.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Any dispute arising out of this Agreement
+shall be settled through friendly negotiation. If no agreement can be reached
+through negotiation, such dispute shall be submitted to the competent court at
+the location of the Company for settlement.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">11. Contact us<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">If you have any questions, complaints or
+reports, you can contact us in the following ways, we will reply to your
+request within 15 days.<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Shenzhen Weida Technology Co., Ltd<o:p></o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+
+    <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">Address: 14B, Haining Square, Longhua District, Shenzhen City.<o:p></o:p></span></p>
+
+</div>
+
+
+
+
+<audio controls="controls" style="display: none;"></audio></body><style type="text/css">#yddContainer{display:block;font-family:Microsoft YaHei;position:relative;width:100%;height:100%;top:-4px;left:-4px;font-size:12px;border:1px solid}#yddTop{display:block;height:22px}#yddTopBorderlr{display:block;position:static;height:17px;padding:2px 28px;line-height:17px;font-size:12px;color:#5079bb;font-weight:bold;border-style:none solid;border-width:1px}#yddTopBorderlr .ydd-sp{position:absolute;top:2px;height:0;overflow:hidden}.ydd-icon{left:5px;width:17px;padding:0px 0px 0px 0px;padding-top:17px;background-position:-16px -44px}.ydd-close{right:5px;width:16px;padding-top:16px;background-position:left -44px}#yddKeyTitle{float:left;text-decoration:none}#yddMiddle{display:block;margin-bottom:10px}.ydd-tabs{display:block;margin:5px 0;padding:0 5px;height:18px;border-bottom:1px solid}.ydd-tab{display:block;float:left;height:18px;margin:0 5px -1px 0;padding:0 4px;line-height:18px;border:1px solid;border-bottom:none}.ydd-trans-container{display:block;line-height:160%}.ydd-trans-container a{text-decoration:none;}#yddBottom{position:absolute;bottom:0;left:0;width:100%;height:22px;line-height:22px;overflow:hidden;background-position:left -22px}.ydd-padding010{padding:0 10px}#yddWrapper{color:#252525;z-index:10001;background:url(chrome-extension://eopjamdnofihpioajgfdikhhbobonhbb/ab20.png);}#yddContainer{background:#fff;border-color:#4b7598}#yddTopBorderlr{border-color:#f0f8fc}#yddWrapper .ydd-sp{background-image:url(chrome-extension://eopjamdnofihpioajgfdikhhbobonhbb/ydd-sprite.png)}#yddWrapper a,#yddWrapper a:hover,#yddWrapper a:visited{color:#50799b}#yddWrapper .ydd-tabs{color:#959595}.ydd-tabs,.ydd-tab{background:#fff;border-color:#d5e7f3}#yddBottom{color:#363636}#yddWrapper{min-width:250px;max-width:400px;}</style></html>
